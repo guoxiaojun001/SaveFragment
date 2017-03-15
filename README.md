@@ -1,5 +1,7 @@
 # SaveFragment
 关于fragment状态保存和恢复问题
+<p>
+http://blog.csdn.net/jianghejie123/article/details/44726691
 原文链接:http://www.jianshu.com/p/75dc2f51cd63
 Fragment 最终模版
 
